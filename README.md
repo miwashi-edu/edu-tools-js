@@ -1,4 +1,4 @@
-# edu-tools
+# edu-tools-js
 
 > Verktyg som behövs för att utveckla i javascript.
 
