@@ -16,9 +16,8 @@ wsl --install #Därefter går du till rubriken Linux
 ### git bash
 
 ### Docker
-[Slå på virtualisering](https://support.bluestacks.com/hc/en-us/articles/360058102252-How-to-enable-Virtualization-VT-on-Windows-10-for-BlueStacks-5#:~:text=Enabling%20Virtualization%20in%20BIOS%20for%20Intel%20CPUs&text=Press%20the%20F7%20key%20or,to%20change%20it%20to%20Enabled.)
 
-> För att en PC skall kunna köra docker måste man gå in i BIOS och tillåta virtualisering.
+> För att en PC skall kunna köra docker måste man gå in i BIOS och tillåta [virtualisering](https://support.bluestacks.com/hc/en-us/articles/360058102252-How-to-enable-Virtualization-VT-on-Windows-10-for-BlueStacks-5#:~:text=Enabling%20Virtualization%20in%20BIOS%20for%20Intel%20CPUs&text=Press%20the%20F7%20key%20or,to%20change%20it%20to%20Enabled.).
 
 node
 node version manager
